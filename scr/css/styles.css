@@ -1,0 +1,35 @@
+body {
+    background-color: #22904F;
+}
+
+.img {
+    margin-top: 15px;
+    width: 40vh;
+    height: auto;
+}
+
+body header {
+    background-color: #E8F2DB;
+    text-align: center;
+    margin-top: 5vh;
+    margin-left: 33.3%;
+    width: 70vh;
+    height: 90vh;
+    border-radius: 25px;
+}
+
+input {
+    width: 50vh;
+    height: 5vh;
+    font-size: 15px;
+    margin-bottom: 25px;
+    border-radius: 2vh;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+button {
+    width: 50vh;
+    height: 5vh;
+    cursor: pointer;
+}
